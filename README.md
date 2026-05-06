@@ -11,9 +11,8 @@ The project uses the Red Wine Quality dataset from Kaggle/UCI and applies Tablea
 ---
 
 ## Tableau Public Dashboard
-
-[Insert Tableau Public Link Here]
-
+https://public.tableau.com/views/FinalPresentation_17780459901440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/FinalPresentation_2_17780461136000/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## Project Objectives
