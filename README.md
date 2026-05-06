@@ -84,6 +84,7 @@ The greater the distance between the two points, the more strongly that characte
 * Alcohol and volatile acidity demonstrated some of the strongest separation between quality groups
 * Some variables showed relatively small differences despite changes in wine quality
 
+The analysis successfully demonstrated that wine quality is influenced by multiple interacting chemical characteristics rather than one defining variable. While certain attributes such as alcohol and volatile acidity showed stronger relationships with quality, substantial overlap remained across wine ratings, reinforcing the subjective nature of wine evaluation.
 ---
 
 ## Tableau Skills Demonstrated
